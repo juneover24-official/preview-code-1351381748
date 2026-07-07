@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1053076936",
-  "updated_at": "2026-07-07T12:54:23+00:00",
+  "updated_at": "2026-07-07T12:55:18+00:00",
   "skins": [
     {
       "name": "小忻の三文鱼盖饭",
@@ -44,6 +44,12 @@
       "file": "小忻の石锅拌饭大.bdi",
       "thumb": "小忻の石锅拌饭大.bdi_py_26_light_thumb.png",
       "full": "小忻の石锅拌饭大.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小忻の石锅拌饭",
+      "file": "小忻の石锅拌饭小无漂.bdi",
+      "thumb": "小忻の石锅拌饭小无漂.bdi_py_26_light_thumb.png",
+      "full": "小忻の石锅拌饭小无漂.bdi_py_26_light_thumb.png"
     }
   ]
 }
