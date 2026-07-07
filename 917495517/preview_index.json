@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "917495517",
-  "updated_at": "2026-07-07T10:17:10+00:00",
+  "updated_at": "2026-07-07T10:18:42+00:00",
   "skins": [
     {
       "name": "小忻の甜心蜜瓜[脆]",
@@ -26,6 +26,12 @@
       "file": "小忻の甜心蜜瓜脆无漂.bds",
       "thumb": "小忻の甜心蜜瓜脆无漂.bds_py_26_light_thumb.png",
       "full": "小忻の甜心蜜瓜脆无漂.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小忻の甜心蜜瓜",
+      "file": "小忻の甜心蜜瓜闷无漂.bdi",
+      "thumb": "小忻の甜心蜜瓜闷无漂.bdi_py_26_light_thumb.png",
+      "full": "小忻の甜心蜜瓜闷无漂.bdi_py_26_light_thumb.png"
     }
   ]
 }
