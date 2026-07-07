@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1053076936",
-  "updated_at": "2026-07-07T12:51:24+00:00",
+  "updated_at": "2026-07-07T12:53:18+00:00",
   "skins": [
     {
       "name": "小忻の三文鱼盖饭",
@@ -20,6 +20,12 @@
       "file": "小忻の寿司.bdi",
       "thumb": "小忻の寿司.bdi_py_26_light_thumb.png",
       "full": "小忻の寿司.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小忻の咖喱猪排",
+      "file": "小忻の咖喱猪排小.bdi",
+      "thumb": "小忻の咖喱猪排小.bdi_py_26_light_thumb.png",
+      "full": "小忻の咖喱猪排小.bdi_py_26_light_thumb.png"
     }
   ]
 }
