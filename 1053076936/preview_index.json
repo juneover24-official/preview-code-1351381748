@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1053076936",
-  "updated_at": "2026-07-07T13:08:19+00:00",
+  "updated_at": "2026-07-07T13:13:56+00:00",
   "skins": [
     {
       "name": "小忻の三文鱼盖饭",
@@ -74,6 +74,12 @@
       "file": "小忻の小熊饼干大闷闷.bdi",
       "thumb": "小忻の小熊饼干大闷闷.bdi_py_26_light_thumb.png",
       "full": "小忻の小熊饼干大闷闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小忻の小熊饼干",
+      "file": "小忻の小熊饼干脆脆大无漂.bdi",
+      "thumb": "小忻の小熊饼干脆脆大无漂.bdi_py_26_light_thumb.png",
+      "full": "小忻の小熊饼干脆脆大无漂.bdi_py_26_light_thumb.png"
     }
   ]
 }
