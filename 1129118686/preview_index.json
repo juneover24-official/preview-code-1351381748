@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1129118686",
-  "updated_at": "2026-11-01T14:12:11+00:00",
+  "updated_at": "2026-11-01T14:37:03+00:00",
   "skins": [
     {
       "name": "小忻の红苹果_脆大",
@@ -72,6 +72,13 @@
       "thumb": "小忻の抹茶拿铁闷小无漂.bds_py_26_light_thumb.png",
       "full": "小忻の抹茶拿铁闷小无漂.bds_py_26_light_thumb.png",
       "file_id": "c62812407bb63cac71f00b4a727d56d0"
+    },
+    {
+      "name": "小忻の抹茶拿铁脆小无漂",
+      "file": "小忻の抹茶拿铁脆小无漂.bds",
+      "thumb": "小忻の抹茶拿铁脆小无漂.bds_py_26_light_thumb.png",
+      "full": "小忻の抹茶拿铁脆小无漂.bds_py_26_light_thumb.png",
+      "file_id": "2397de687ba4f630d3bf36025a566b6c"
     }
   ]
 }
