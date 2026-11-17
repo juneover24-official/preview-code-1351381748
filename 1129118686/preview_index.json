@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1129118686",
-  "updated_at": "2026-11-17T16:58:04+00:00",
+  "updated_at": "2026-11-17T16:58:49+00:00",
   "skins": [
     {
       "name": "小忻の红苹果_脆大",
@@ -275,6 +275,13 @@
       "thumb": "小忻の冰淇淋泡芙脆大无漂.bds_py_26_light_thumb.png",
       "full": "小忻の冰淇淋泡芙脆大无漂.bds_py_26_light_thumb.png",
       "file_id": "ea17b62c842f2229c7ca1f36a57e7269"
+    },
+    {
+      "name": "小忻の冰淇淋泡芙脆小无漂",
+      "file": "小忻の冰淇淋泡芙脆小无漂.bds",
+      "thumb": "小忻の冰淇淋泡芙脆小无漂.bds_py_26_light_thumb.png",
+      "full": "小忻の冰淇淋泡芙脆小无漂.bds_py_26_light_thumb.png",
+      "file_id": "5f64344b07b12b64a317eb416c826827"
     }
   ]
 }
