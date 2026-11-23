@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1129118686",
-  "updated_at": "2026-11-23T11:12:26+00:00",
+  "updated_at": "2026-11-23T11:12:53+00:00",
   "skins": [
     {
       "name": "小忻の红苹果_脆大",
@@ -296,6 +296,13 @@
       "thumb": "小忻の圣诞小狗盲打.bds_py_26_light_thumb.png",
       "full": "小忻の圣诞小狗盲打.bds_py_26_light_thumb.png",
       "file_id": "7ceb4ced95a9dd177542117e242be4d9"
+    },
+    {
+      "name": "小忻の圣诞小狗_字母",
+      "file": "小忻の圣诞小狗字母无漂.bds",
+      "thumb": "小忻の圣诞小狗字母无漂.bds_py_26_light_thumb.png",
+      "full": "小忻の圣诞小狗字母无漂.bds_py_26_light_thumb.png",
+      "file_id": "66ae4a25613df37d71b944c301966cb1"
     }
   ]
 }
