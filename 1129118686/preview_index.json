@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1129118686",
-  "updated_at": "2026-11-23T11:13:28+00:00",
+  "updated_at": "2026-11-24T16:44:05+00:00",
   "skins": [
     {
       "name": "小忻の红苹果_脆大",
@@ -310,6 +310,13 @@
       "thumb": "小忻の圣诞小狗盲打无漂.bds_py_26_light_thumb.png",
       "full": "小忻の圣诞小狗盲打无漂.bds_py_26_light_thumb.png",
       "file_id": "d9ac552af1d65e2c28c56db4ceb8ab2b"
+    },
+    {
+      "name": "小忻の面包脑袋-闷小",
+      "file": "小忻の面包脑袋闷小.bds",
+      "thumb": "小忻の面包脑袋闷小.bds_py_26_light_thumb.png",
+      "full": "小忻の面包脑袋闷小.bds_py_26_light_thumb.png",
+      "file_id": "a4181febc1fd9eeb6d34d4dfc2a88944"
     }
   ]
 }
