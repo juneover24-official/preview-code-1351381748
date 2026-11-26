@@ -1,7 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "102673907",
-  "updated_at": "2026-10-06T23:26:59+00:00",
+  "updated_at": "2026-11-26T12:12:49+00:00",
   "skins": [
     {
       "name": "小忻の白桃闷大无漂",
@@ -15,6 +15,13 @@
       "thumb": "小忻の冰美式脆小.bdi_py_26_light_thumb.png",
       "full": "小忻の冰美式脆小.bdi_py_26_light_thumb.png",
       "file_id": "6e88d5274a3fe8dd4ab900c453468805"
+    },
+    {
+      "name": "香锅麻辣拌",
+      "file": "香锅麻辣拌.sgb",
+      "thumb": "香锅麻辣拌.sgb_py_26_light_thumb.png",
+      "full": "香锅麻辣拌.sgb_py_26_light_thumb.png",
+      "file_id": "67c382e9a299d08cbeea418894c90885"
     }
   ]
 }
