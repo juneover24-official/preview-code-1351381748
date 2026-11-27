@@ -1,6 +1,7 @@
 {
   "qq_number": "1351381748",
   "group_number": "1065071423",
+  "updated_at": "2026-11-27T11:24:30+00:00",
   "skins": [
     {
       "name": "香锅麻辣拌",
@@ -8,7 +9,13 @@
       "thumb": "香锅麻辣拌.sgb_py_26_light_thumb.png",
       "full": "香锅麻辣拌.sgb_py_26_light_thumb.png",
       "file_id": "81a85778fa3c36ee0b8d08f95a84a0d4"
+    },
+    {
+      "name": "小忻の香锅麻辣拌脆",
+      "file": "小忻の香锅麻辣拌脆.bds",
+      "thumb": "小忻の香锅麻辣拌脆.bds_py_26_light_thumb.png",
+      "full": "小忻の香锅麻辣拌脆.bds_py_26_light_thumb.png",
+      "file_id": "5a88f0a00ea473f3100de633fb841f50"
     }
-  ],
-  "updated_at": "2026-11-26T12:22:22+00:00"
+  ]
 }
